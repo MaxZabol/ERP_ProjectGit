@@ -1,7 +1,6 @@
 package Week1;
 
 public class DivideWithoutOperator {
-
     public static String divideWithoutOperator(int dividend, int divisor) {
         // Convert the numbers to positive to simplify the calculation
         int absDivisor = Math.abs(divisor);
@@ -38,5 +37,4 @@ public class DivideWithoutOperator {
     public static void main(String[] args) {
         System.out.println(divideWithoutOperator(12, 3));
     }
-
 }

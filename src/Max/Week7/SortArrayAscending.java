@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class SortArray {
+public class SortArrayAscending {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Write long digit");

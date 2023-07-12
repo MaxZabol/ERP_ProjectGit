@@ -20,8 +20,8 @@ public class SortArrayDescending {
 
     }
     // Given         Array 1      8,3,7,5,6,3,4
-    //   convert     ArrayList    8,3,7,5,6,3,4
-    //   result      Array 2      3,3,
+    //   convert     ArrayList    3,,5,,3,4
+    //   result      Array 2      8 7 7 6
 
     public static int[] sortArray(int[] arr) {
 

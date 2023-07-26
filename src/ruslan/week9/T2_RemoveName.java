@@ -1,4 +1,4 @@
-package src.ruslan.Week9;
+package src.ruslan.week9;
 
 import java.util.ArrayList;
 import java.util.Arrays;

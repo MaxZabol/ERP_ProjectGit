@@ -1,4 +1,4 @@
-package src.ruslan.Week3;
+package src.ruslan.week3;
 
 public class ReverseNegative {
 

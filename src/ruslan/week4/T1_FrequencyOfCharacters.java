@@ -1,4 +1,4 @@
-package src.ruslan.Week4;
+package src.ruslan.week4;
 
     public class T1_FrequencyOfCharacters {
 

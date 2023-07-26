@@ -1,4 +1,4 @@
-package src.ruslan.Week6;
+package src.ruslan.week6;
 
 public class T2_MaximumNumber {
     //2. Find Maximum:

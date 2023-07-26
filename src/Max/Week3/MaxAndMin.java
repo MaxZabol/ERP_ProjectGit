@@ -14,6 +14,8 @@ public class MaxAndMin {
                 minNum=arr[i];
 
         }
+
+
         return "maximum number = "+maxNum+"\n"+"minimum number = "+ minNum;
     }
 }

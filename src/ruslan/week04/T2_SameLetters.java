@@ -1,4 +1,4 @@
-package src.ruslan.week4;
+package src.ruslan.week04;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package src.ruslan.week8;
+package src.ruslan.week08;
 
 import java.util.Arrays;
 import java.util.Scanner;

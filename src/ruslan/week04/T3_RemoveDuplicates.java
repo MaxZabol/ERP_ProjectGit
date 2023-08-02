@@ -1,4 +1,4 @@
-package src.ruslan.week4;
+package src.ruslan.week04;
 
 public class T3_RemoveDuplicates {
 

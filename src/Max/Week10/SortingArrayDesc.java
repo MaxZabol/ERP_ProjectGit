@@ -9,9 +9,9 @@ public class SortingArrayDesc {
         public static void main(String[] args) {
             ArrayList<Integer> arr = new ArrayList<>(Arrays.asList(4, 5, 76, 7, 89, 9, 0, 0));
 
-            System.out.println("Original Array: " + arr);
+            System.out.println("Original: " + arr);
             ArrayList<Integer> sortedArr = sorting(arr);
-            System.out.println("Sorted Array: " + sortedArr);
+            System.out.println("Sorted resolt: " + sortedArr);
         }
 
         public static ArrayList<Integer> sorting(ArrayList<Integer> input) {
